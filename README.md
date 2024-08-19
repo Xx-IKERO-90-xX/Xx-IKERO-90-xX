@@ -14,3 +14,10 @@
 
 ## Front-end
 ![Vue](https://img.icons8.com/?size=100&id=tbleCw0ch6QC&format=png&color=000000) ![html](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) ![css](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) ![Boostrap](https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000)
+
+<br><br>
+## Data-Base
+![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) ![SqlServer](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
+
+## Dev-Ops
+![Docker](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) ![PostMan](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
