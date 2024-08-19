@@ -8,3 +8,6 @@
 <br><br>
 **Back-End**<br>
   ![Flask](https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000) ![Symfony](https://img.icons8.com/?size=100&id=jpa398oAm0WY&format=png&color=000000) ![Asp](https://github.com/user-attachments/assets/8098e846-5242-41bc-b777-9a256920cd02)
+
+
+<hr>
