@@ -19,4 +19,4 @@
 ![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) ![SqlServer](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
 
 ## Dev-Ops
-![Docker](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) ![PostMan](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
+![Docker](https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000) ![PostMan](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
