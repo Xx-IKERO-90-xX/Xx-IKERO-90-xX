@@ -1,7 +1,7 @@
 ## Hello, I'm Iker 👋
 ![hq720](https://github.com/user-attachments/assets/176cf4c2-1142-4ac4-b5c6-24c2827b3507)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-IKERO-90-xX)](https://github.com/rahulkarda/readme-components)
+
 [![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xx-IKERO-90-xX&theme=radical&hide_border=true)
 
 ## Programming Languages
