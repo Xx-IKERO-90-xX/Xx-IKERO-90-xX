@@ -4,6 +4,8 @@
 
 ![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xx-IKERO-90-xX&theme=radical&hide_border=true)
 
+Soy Iker Javer Hernandez tambien conocido como THE_IKERO90, soy un apasionado al desarrollo web y tambien soy jefe y lider de una ambiciosa y amistosa comunidad llamado Pana Gaming que nos enfocamos en ofrecer a la gente a parte de un espacio seguro, servidores de minecraft epicos con una experiencia única gracias a los conocimientos de desarrollador y tecnico informatico que he adquirido estos últimos 4 años en mi carrera y estoy muy motivado a seguir adelante con determinación y felicidad.
+
 ## Programming Languages
   ![Python](https://img.icons8.com/?size=100&id=121464&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) ![C#](https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000) ![php](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000)
 
@@ -21,3 +23,7 @@
 
 ## Dev-Ops
 ![Docker](https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000) ![PostMan](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
+
+<hr/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X617UI2O)
