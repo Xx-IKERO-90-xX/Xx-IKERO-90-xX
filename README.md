@@ -1,34 +1,7 @@
 ## Hello, I'm Iker 👋
 
 ![image](/img/Iker%20Javier.png)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X617UI2O)
-
-
-I dedicate myself to creating and developing projects that connect people, generate interactive experiences, and promote creativity. I am always looking to improve and learn, combining analytical thinking with strategic vision.
-
-**✨ What inspires me:**
-
-- Building solutions that have a real impact.
-
-- Exploring new forms of interaction and digital creativity.
-
-- Collaborating with people who share passion and commitment.
-
-**🚀 Currently:**
-
-- Leading my own projects aimed at uniting community, technology, and experience.
-
-- Continuously improving my portfolio and digital presence.
-
-- Exploring new ideas to expand what I can create and share.
-
-`I believe in innovation, perseverance, and using technology to bring people closer together and enhance their capabilities.`
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,4 +24,24 @@ I dedicate myself to creating and developing projects that connect people, gener
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+I dedicate myself to creating and developing projects that connect people, generate interactive experiences, and promote creativity. I am always looking to improve and learn, combining analytical thinking with strategic vision.
+
+**✨ What inspires me:**
+
+- Building solutions that have a real impact.
+
+- Exploring new forms of interaction and digital creativity.
+
+- Collaborating with people who share passion and commitment.
+
+**🚀 Currently:**
+
+- Leading my own projects aimed at uniting community, technology, and experience.
+
+- Continuously improving my portfolio and digital presence.
+
+- Exploring new ideas to expand what I can create and share.
+
+`I believe in innovation, perseverance, and using technology to bring people closer together and enhance their capabilities.`
 
