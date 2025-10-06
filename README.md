@@ -1,29 +1,54 @@
 ## Hello, I'm Iker 👋
-![hq720](https://github.com/user-attachments/assets/176cf4c2-1142-4ac4-b5c6-24c2827b3507)
 
-
-![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xx-IKERO-90-xX&theme=radical&hide_border=true)
-
-Soy Iker Javer Hernandez tambien conocido como THE_IKERO90, soy un apasionado al desarrollo web y tambien soy jefe y lider de una ambiciosa y amistosa comunidad llamado Pana Gaming que nos enfocamos en ofrecer a la gente a parte de un espacio seguro, servidores de minecraft epicos con una experiencia única gracias a los conocimientos de desarrollador y tecnico informatico que he adquirido estos últimos 4 años en mi carrera y estoy muy motivado a seguir adelante con determinación y felicidad.
-
-## Programming Languages
-  ![Python](https://img.icons8.com/?size=100&id=121464&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) ![C#](https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000) ![php](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000)
-
-
-## Back-End
-  ![Flask](https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000) ![Symfony](https://img.icons8.com/?size=100&id=jpa398oAm0WY&format=png&color=000000) ![Asp](https://github.com/user-attachments/assets/8098e846-5242-41bc-b777-9a256920cd02)
-
-
-## Front-end
-![Vue](https://img.icons8.com/?size=100&id=tbleCw0ch6QC&format=png&color=000000) ![html](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) ![css](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) ![Boostrap](https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000)
-
-
-## Data-Base
-![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) ![SqlServer](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
-
-## Dev-Ops
-![Docker](https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000) ![PostMan](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
-
-<hr/>
+![image](/img/Iker%20Javier.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X617UI2O)
+
+
+I dedicate myself to creating and developing projects that connect people, generate interactive experiences, and promote creativity. I am always looking to improve and learn, combining analytical thinking with strategic vision.
+
+**✨ What inspires me:**
+
+- Building solutions that have a real impact.
+
+- Exploring new forms of interaction and digital creativity.
+
+- Collaborating with people who share passion and commitment.
+
+**🚀 Currently:**
+
+- Leading my own projects aimed at uniting community, technology, and experience.
+
+- Continuously improving my portfolio and digital presence.
+
+- Exploring new ideas to expand what I can create and share.
+
+`I believe in innovation, perseverance, and using technology to bring people closer together and enhance their capabilities.`
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
